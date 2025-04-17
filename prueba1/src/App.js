@@ -5,7 +5,7 @@ function App(){
   return(
     <div>
       <h1>Lista de Perfiles</h1>
-      <tarjeta nombre= "Ana" Edad={29} Ocupacion="Diseño UX"/>
+      <tarjeta nombre= "Ana" edad={29} ocupacion="Diseño UX"/>
     </div>
   )
 }
